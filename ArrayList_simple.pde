@@ -1,5 +1,4 @@
 ArrayList<String> list = new ArrayList<String>();
-//list.add(2);
 for(int i =0;i<10;i++){
 list.add(new String(Integer.toString(i+1)));
 }
